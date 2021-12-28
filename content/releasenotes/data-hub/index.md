@@ -9,6 +9,12 @@ These release notes cover changes made to the [Mendix Data Hub](/data-hub/).
 
 ## 2021
 
+### December 30th, 2021
+
+#### Fixes
+
+* We fixed an issue where deleted endpoints are showing up in the search results
+
 ### December 23rd, 2021
 
 #### Fixes
